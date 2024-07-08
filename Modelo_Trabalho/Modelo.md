@@ -8,7 +8,7 @@ backgroundImage: url('./../if_back1.png')
 paginate: true
 ---
  
-# Teste de Carga
+# Teste de Estresse e Teste de Fuzz
 ### Prof. Dr. Valério Gutemberg
 #### :pencil: Guilherme Cadete, Rafael Augusto, Alessandro Nunes, Moisés José, Samuel Lucas
 #### :pencil: Disciplina de Testes de Software
@@ -79,13 +79,10 @@ O teste de estresse é essencial para garantir a robustez e o desempenho de sist
 
 ---
 
-# Teste de Fuzz
-
----
-
 # O que é Teste de Fuzz
 
 Uma técnica de teste que consiste em fornecer entradas de dados inválidas ou inesperadas para a aplicação através de aplicativos que automatizam o processo.
+
 ---
 
 # Por que teste de fuzz é importante?
